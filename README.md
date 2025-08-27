@@ -6,7 +6,9 @@ Este repositório contém o link para acessar o OneView - Dashboard de Visualiza
 
 **Link Principal:** (https://ncn-dashboard.web.app)
 
-## 📋 Sobre o NCN Dashboard
+## 📋 Sobre o OneView Dashboard
+
+Imagime poder verificar todos as informações relevantes de sua empresa ou setor em um dashboard único totalmente personalizado? 
 
 O OneView é uma aplicação web de painel de controle (dashboard) projetada para fornecer visibilidade e insights sobre:
 
