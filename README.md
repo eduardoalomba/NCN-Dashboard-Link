@@ -20,7 +20,9 @@ O OneView é uma aplicação web de painel de controle (dashboard) projetada par
 ## 🚀 Como Usar
 
 1. Clique no link acima para acessar o dashboard
-2. Navegue pelas diferentes seções para análises específicas
+2. Navegue pelas diferentes seções (menu lateral esquerdo) para análises específicas
 3. Utilize os filtros e controles para personalizar sua visualização
+4. Utilize "Resumo Executivo" para insights poderosos gerados por IA
+5. Utilize o "Chat com IA" para interagir (por texto ou voz) de forma rápida e dinâmica com todas as informações disponíveis.
 
 ---
