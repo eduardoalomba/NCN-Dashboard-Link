@@ -4,11 +4,11 @@ Este repositório contém o link para acessar o NCN Dashboard - Sistema de Geren
 
 ## 🔗 Acesso ao Dashboard
 
-**Link Principal:** [https://ncn-dashboard.web.app](https://ncn-dashboard.web.app)
+**Link Principal:** (https://ncn-dashboard.web.app)
 
 ## 📋 Sobre o NCN Dashboard
 
-O NCN (Núcleo de Gerenciamento de Contratos de Nuvem) é uma aplicação web de painel de controle (dashboard) projetada para fornecer visibilidade e insights sobre:
+O NCN é uma aplicação web de painel de controle (dashboard) projetada para fornecer visibilidade e insights sobre:
 
 - 💰 Custos de serviços em nuvem
 - 📄 Execução de contratos
@@ -22,5 +22,3 @@ O NCN (Núcleo de Gerenciamento de Contratos de Nuvem) é uma aplicação web de
 3. Utilize os filtros e controles para personalizar sua visualização
 
 ---
-
-*Para mais informações sobre o código-fonte e desenvolvimento, visite o [repositório principal](https://github.com/eduardoalomba/NCN-Dashboard).*
