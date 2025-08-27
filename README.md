@@ -10,7 +10,7 @@ Este repositório contém o link para acessar o OneView - Dashboard de Visualiza
 
 Imagine poder verificar as informações mais relevantes de sua empresa ou setor em um dashboard único totalmente personalizado? 
 
-O OneView é uma aplicação web de painel de controle (dashboard) projetada para fornecer visibilidade e insights sobre:
+O OneView é uma aplicação web, de painel de controle (integrada com IA) projetada para fornecer visibilidade e insights sobre seus principais recursos recursos e indicadores, neste exemplo temos:
 
 - 💰 Custos de serviços em nuvem
 - 📄 Execução de contratos
