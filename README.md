@@ -26,3 +26,4 @@ O OneView é uma aplicação web de painel de controle (dashboard) projetada par
 5. Utilize o "Chat com IA" para interagir (por texto ou voz) de forma rápida e dinâmica com todas as informações disponíveis.
 
 ---
+Gostaria de criar o seu? eduardoalomba@gmail.com | @eduardoalomba
