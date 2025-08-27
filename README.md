@@ -1,14 +1,14 @@
-# NCN Dashboard - Link de Acesso
+# OneView Dashboard - Link de Acesso
 
-Este repositório contém o link para acessar o NCN Dashboard - Sistema de Gerenciamento de Contratos de Nuvem.
+Este repositório contém o link para acessar o OneView - Dashboard de Visualização Única de Custos e Contratos.
 
-## 🔗 Acesso ao Dashboard
+## 🔗 Acesso ao OneView
 
 **Link Principal:** (https://ncn-dashboard.web.app)
 
 ## 📋 Sobre o NCN Dashboard
 
-O NCN é uma aplicação web de painel de controle (dashboard) projetada para fornecer visibilidade e insights sobre:
+O OneView é uma aplicação web de painel de controle (dashboard) projetada para fornecer visibilidade e insights sobre:
 
 - 💰 Custos de serviços em nuvem
 - 📄 Execução de contratos
